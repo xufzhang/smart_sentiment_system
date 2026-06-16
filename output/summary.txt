@@ -1,0 +1,11 @@
+智能文本情感分析系统运行摘要
+========================
+训练样本数：21
+测试样本数：9
+准确率：77.78%
+宏平均 F1：72.22%
+
+类别指标：
+- negative: Precision=0.71, Recall=1.00, F1=0.83, Support=5
+- neutral: Precision=1.00, Recall=0.50, F1=0.67, Support=2
+- positive: Precision=1.00, Recall=0.50, F1=0.67, Support=2

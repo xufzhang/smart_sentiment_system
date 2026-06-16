@@ -1,0 +1,49 @@
+{
+  "accuracy": 0.7778,
+  "macro_f1": 0.7222,
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "per_label": {
+    "negative": {
+      "precision": 0.7143,
+      "recall": 1.0,
+      "f1": 0.8333,
+      "support": 5.0
+    },
+    "neutral": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2.0
+    },
+    "positive": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 2.0
+    }
+  },
+  "confusion_matrix": {
+    "negative": {
+      "negative": 5,
+      "neutral": 0,
+      "positive": 0
+    },
+    "neutral": {
+      "negative": 1,
+      "neutral": 1,
+      "positive": 0
+    },
+    "positive": {
+      "negative": 1,
+      "neutral": 0,
+      "positive": 1
+    }
+  },
+  "sample_count": 9,
+  "train_count": 21,
+  "test_count": 9
+}

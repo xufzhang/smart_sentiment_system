@@ -1,0 +1,14 @@
+智能文本情感分析系统运行完成
+训练样本数：21，测试样本数：9
+准确率：77.78%，宏平均 F1：72.22%
+
+新增文本预测：
+- 这个系统很好用，运行很稳定 => positive（置信度 99.94%）
+- 程序经常崩溃，导出文件失败 => negative（置信度 95.96%）
+
+已输出文件：
+- predictions: output/predictions.csv
+- metrics: output/metrics.json
+- confusion_matrix: output/confusion_matrix.csv
+- summary: output/summary.txt
+- model: output/sentiment_model.json

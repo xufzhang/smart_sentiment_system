@@ -1,0 +1,12 @@
+﻿id,text,true_label,predicted_label,confidence
+20,安装依赖失败，系统无法启动,negative,negative,0.9393
+15,程序运行中突然崩溃，体验很差,negative,negative,0.6898
+11,软件经常卡顿，打开页面需要很久,negative,negative,0.9982
+27,数据量较小时效果尚可，大数据场景未测试,neutral,neutral,0.8547
+23,功能数量不多，但满足基础需求,neutral,negative,0.8724
+7,识别结果比之前版本更准确,positive,positive,0.7274
+6,功能设计合理，操作逻辑很顺手,positive,negative,0.5162
+13,导出的文件乱码，无法正常提交,negative,negative,0.9964
+12,预测结果不准确，很多文本都分错了,negative,negative,0.9609
+new-1,这个系统很好用，运行很稳定,,positive,0.9994
+new-2,程序经常崩溃，导出文件失败,,negative,0.9596
