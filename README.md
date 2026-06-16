@@ -46,7 +46,4 @@ python main.py --data sample_data/reviews.csv --output output --predict "这个�
 python -m unittest discover -s tests
 ```
 
-## GitHub/Gitee URL 占位
 
-- GitHub: `https://github.com/your-name/smart-sentiment-system`
-- Gitee: `https://gitee.com/your-name/smart-sentiment-system`
